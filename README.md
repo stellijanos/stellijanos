@@ -1,5 +1,5 @@
 ### Hi there 👋
-just visit my personal website "[https://stellijanos.com]" and you'll find out more about me
+just visit my personal website https://stellijanos.com and you'll find out more about me
 
 <!--
 **stellijanos/stellijanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
