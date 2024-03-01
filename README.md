@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-just check out <a href="https://stellijanos.com">my personal website</a> and you'll find out more.
+just check out <a href="https://stellijanos.com" target="_blank">my personal website</a> and you'll find out more.
 
 <h3>Quick Contact</h3>
 <ul>
