@@ -1,10 +1,13 @@
 ### Hi there 👋
-just visit my personal website https://stellijanos.com and you'll find out more about me
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-<h3>Contact</h3>
+just check out <a href="https://stellijanos.com">my personal website</a> and you'll find out more.
 
-<a href="mailto:janos@stellijanos.com"><i class="far fa-envelope"></i></a>
+<h3>Quick Contact</h3>
+<ul>
+  <li><a href="mailto:janos@stellijanos.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/janos-s-677a10153/" target="_blank">LinkedIn</a></li>
+<ul>
+
 
 <!--
 **stellijanos/stellijanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
