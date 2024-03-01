@@ -1,6 +1,11 @@
 ### Hi there 👋
 just visit my personal website https://stellijanos.com and you'll find out more about me
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<h3>Contact</h3>
+
+<a href="mailto:janos@stellijanos.com"><i class="far fa-envelope"></i></a>
+
 <!--
 **stellijanos/stellijanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
