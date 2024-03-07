@@ -7,7 +7,7 @@ just check out <a href="https://stellijanos.com" target="_blank">my personal web
   <li><a href="mailto:janos@stellijanos.com">Email</a></li>
   <li><a href="https://www.linkedin.com/in/janos-s-677a10153/" target="_blank">LinkedIn</a></li>
 <ul>
-
+<hr>
 <img src="https://komarev.com/ghpvc/?username=stellijanos">
 <!--
 **stellijanos/stellijanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
