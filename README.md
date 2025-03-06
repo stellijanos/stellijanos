@@ -43,6 +43,7 @@ I have a deep passion for writing **clean, efficient code** and solving complex 
 
 ## 📜 Certifications  
 📌 **The Complete Spring Boot Development Bootcamp** – Udemy, October 2024  
+📌 **Node.js, Express, MongoDB & More: The Complete Bootcamp** – Udemy, August 2024  
 📌 **DevOps Course** – Udemy, July 2024  
 📌 **Angular Course** – Udemy, April 2024  
 
