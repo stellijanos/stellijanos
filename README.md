@@ -13,10 +13,6 @@
 I am a **disciplined and ambitious Full Stack Developer** with **4+ years** of experience building **robust, scalable, and user-friendly applications**.  
 I have a deep passion for writing **clean, efficient code** and solving complex problems in **backend, frontend, and DevOps environments**.  
 
-🔹 Currently interning at **NTT DATA Romania**, sharpening my **Linux, Oracle SQL, and Mainframe skills**.  
-🔹 Previously at **The Lead Hub**, where I built **REST APIs, improved performance by 30%, and managed deployments**.  
-🔹 Studying **Computer Science (German Language Program)** at **Babes-Bolyai University**.  
-
 ---
 
 ## 🔥 Tech Stack  
