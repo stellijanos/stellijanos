@@ -10,8 +10,7 @@
 
 ## 🏆 About Me  
 
-I am a **disciplined and ambitious Full Stack Developer** with **4+ years** of experience building **robust, scalable, and user-friendly applications**.  
-I have a deep passion for writing **clean, efficient code** and solving complex problems in **backend, frontend, and DevOps environments**.  
+I'm an ambitious, disciplined, and results-driven Full Stack Developer with a passion for building clean, scalable, and high-performing applications. I thrive in dynamic environments, love solving complex problems, and constantly seek out new challenges to grow both technically and professionally.
 
 ---
 
